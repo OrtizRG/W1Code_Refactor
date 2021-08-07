@@ -10,9 +10,8 @@ A website that offers social media management services.
 ## Website
 https://ortizrg.github.io/W1Code_Refactor/
 
+![image]{assets/login.png)
+
 ## Contribution
-<<<<<<< HEAD
 Made with ❤️ by Reyna
-=======
-Made with ❤️ by Reyna
->>>>>>> e2ba84da8ee6ae3ea8c790d860f862299330cdc5
+
